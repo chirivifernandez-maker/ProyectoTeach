@@ -1,0 +1,9 @@
+#graficoTorta{
+    max-width:350px;
+    max-height:350px;
+    margin:auto;
+}
+
+canvas{
+    max-height:450px;
+}
